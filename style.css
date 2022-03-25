@@ -3,10 +3,19 @@ header {
  font-weight: bold condensed;
  color: #AC2B37; 
  font-size: 25px;
+ padding:3px;
 }
 
 #content {
     padding:3px;
+}
+
+p{
+ padding:3px;
+}
+
+h1{
+ padding:3px;
 }
 
 #WPI{
